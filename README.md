@@ -39,5 +39,5 @@ The **Memory Test** is a browser-based game where players flip cards to find mat
    }
 
 ## References
-[Ideas from https://youtu.be/M0egyNvsN-Y](https://youtu.be/M0egyNvsN-Y)
-[JS functions - help from https://www.w3schools.com/](https://www.w3schools.com/)
+- Idea from - [https://youtu.be/M0egyNvsN-Y](https://youtu.be/M0egyNvsN-Y)
+- JS functions - help from [https://www.w3schools.com/](https://www.w3schools.com/)
